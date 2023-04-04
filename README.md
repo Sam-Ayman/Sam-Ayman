@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sam-Ayman
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning database
-- 💞️ I’m looking to collaborate on backend web development.
+- 🌱 I’m currently learning react
+- 💞️ I’m looking to collaborate on backend web development
 
 
 <!---
